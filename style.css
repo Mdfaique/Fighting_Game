@@ -13,9 +13,9 @@ body {
 }
 
 .menu {
-  width: 50%;
+  width: 100vw;
   display: flex;
-  justify-content: space-between;
+  justify-content: space-evenly;
   align-items: center;
 }
 
